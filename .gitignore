@@ -7,7 +7,7 @@
 /coverage
 
 # production
-/build
+
 /built-lambda
 
 /.netlify
